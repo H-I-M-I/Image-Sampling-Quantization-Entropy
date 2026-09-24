@@ -55,9 +55,9 @@ The RGB image is converted to Y'CbCr.
 
 The three components are separated into:
 
-- Y' — brightness-related information
-- Cb — blue chroma information
-- Cr — red chroma information
+- Y' - brightness-related information
+- Cb - blue chroma information
+- Cr - red chroma information
 
 The code implements and compares:
 
